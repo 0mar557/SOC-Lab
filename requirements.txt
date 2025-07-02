@@ -1,0 +1,5 @@
+Pour récupérer le projet SOC Lab, je l’ai mis à disposition sur un drive pour que vous puissiez le télécharger.J’ai procéder ainsi dû au répertoire qui est trop volumineux. Vous y trouverez les différentes machines virtuelles déjà configurées, et en ce qui concerne les id et mot de passe des sessions vous pourrez les retrouvez dans le fichier README du projet.
+
+Voici le lien du projet : 
+
+Je vous souhaite une bonne journée et amuse

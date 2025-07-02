@@ -8,6 +8,7 @@
 
 Ce laboratoire SOC (Security Operations Center) a été mis en place pour simuler des scénarios d’attaque/défense dans un environnement contrôlé, en utilisant des outils open source comme Security Onion, Suricata, Splunk, et des machines Windows/Linux.  
 Il permet de comprendre la détection, l’analyse et la réponse aux incidents.
+Vous pouvez l'installer en suivant ce qui est noter dans le fichier requirements.txt
 
 ---
 
